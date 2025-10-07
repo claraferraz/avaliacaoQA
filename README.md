@@ -14,7 +14,7 @@ Certifique-se de ter o **Node.js** instalado em sua máquina.
 
 ```bash
 git clone git@github.com:claraferraz/avaliacaoQA.git
-cd calculadora-imc
+cd avaliacaoQA
 ```
 
 ### 2\. Instalar Dependências
